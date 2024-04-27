@@ -1,6 +1,7 @@
 # Console Renderer
 
 Small project I made in 2 days to test my C++ skills, couldn't come up with a better name. In short, it is a very basic way to draw primitive graphics to the C++ console.
+NOTE: WINDOWS ONLY!
 
 ![Preview](https://github.com/elijahreal/console-renderer/assets/144531718/23324e84-17d0-4b0f-8967-f8b8846bfef0)
 
