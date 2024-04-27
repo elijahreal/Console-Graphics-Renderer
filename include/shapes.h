@@ -24,7 +24,7 @@ namespace cr
 		char fill;
 		int step;
 
-		Circle(Int2 center = { 0, 0 }, int radius = 2, char fill = 'X', int step = 1);
+		Circle(Int2 center = { 0, 0 }, int radius = 2, char fill = 'X', int step = 2);
 
 		void draw();
 	};

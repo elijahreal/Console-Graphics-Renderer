@@ -7,9 +7,16 @@
 #define DRAW_BOX_VRT char(179)
 #define DRAW_BOX_HRZ char(196)
 
+#define DRAW_BOX_SL char(195)
+#define DRAW_BOX_SR char(180)
+#define DRAW_BOX_ST char(194)
+#define DRAW_BOX_SB char(193)
+
+#define DRAW_BLANK char(255)
 #define DRAW_GRADIENT_1 char(176)
 #define DRAW_GRADIENT_2 char(177)
 #define DRAW_GRADIENT_3 char(178)
+#define DRAW_SOLID char(219)
 
 namespace cr
 {
